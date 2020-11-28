@@ -15,13 +15,20 @@ since the year 2000 in terms of deaths... So I found data to either prove or dis
 * **Contents**
 
 	`COVID_COMPARISON.ipynb contains source code for project.`
+	
 	`CLEAN contains .csv files with data.`
+	
 	`Figures contains all visualizations saved as .pngs`
+	
 	
 * ****
 * **Analyzed** the following outbreaks either globally or in the US.
 
-	`COVID-19``Pnuemonia``HIV/AIDS``EBOLA``SARS`
+	`COVID-19`
+	`Pnuemonia`
+	`HIV/AIDS`
+	`EBOLA`
+	`SARS`
 
 
 * ****
