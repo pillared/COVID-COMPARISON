@@ -34,12 +34,19 @@ since the year 2000 in terms of deaths... So I found data to either prove or dis
 * **References**
 
 	`https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports`
+	
 	`https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset`
+	
 	`https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset`
+	
 	`https://github.com/ckeating19/HIV-AIDS-Deaths/blob/master/hiv-death-rates.csv`
+	
 	`https://data.cdc.gov/Health-Statistics/Deaths-from-Pneumonia-and-Influenza-P-I-and-all-de/pp7x-dyj2/data`
+	
 	`https://ourworldindata.org/pneumonia`
+	
 	`https://data.worldbank.org/indicator/SP.POP.TOTL`
+	
 
 
 
