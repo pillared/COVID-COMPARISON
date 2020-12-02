@@ -1,5 +1,11 @@
 # COVID-COMPARISON 
 * ****
+* **HOW TO**
+ 
+	Simply download the contents as a zip, and run the .ipynb file!
+	
+	
+* ****
 * **Outline**
  
 	This project highlights some major outbreaks / diseases since the year 2000 and provides a means to visualize and compare between eachother.
