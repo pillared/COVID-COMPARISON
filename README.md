@@ -3,7 +3,28 @@
 * **HOW TO**
  
 	Simply download the contents as a zip, and run the .ipynb file!
+		
+		However, if you do not have the installed dependancies
 	
+		MAKE SURE YOU HAVE ALL THE DEPENDANCIES:
+	
+	you may need plotly, matplotlib, geonamescache, numpy, and pandas. 
+	I believe all others are from pythons in-built librarys.
+
+		pip install plotly
+		pip install matplotlib
+		pip install geonamescache
+		pip install numpy
+		pip install pandas
+
+* ****
+* **Contents**
+
+	`COVID_COMPARISON.ipynb contains source code for project.`
+	
+	`CLEAN contains .csv files with data.`
+	
+	`Figures contains all visualizations saved as .pngs`
 	
 * ****
 * **Outline**
@@ -17,16 +38,6 @@
 	My hypothesis was that COVID 19 was not as detrimental to the population in comparison to other diseases spread
 since the year 2000 in terms of deaths... So I found data to either prove or disprove it.
 
-* ****
-* **Contents**
-
-	`COVID_COMPARISON.ipynb contains source code for project.`
-	
-	`CLEAN contains .csv files with data.`
-	
-	`Figures contains all visualizations saved as .pngs`
-	
-	
 * ****
 * **Analyzed** the following outbreaks either globally or in the US.
 
